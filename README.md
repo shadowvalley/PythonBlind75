@@ -5,3 +5,4 @@ Arrays ->
 3. Contains Duplicate -https://leetcode.com/problems/contains-duplicate/description/
 4. Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/description/
 5. Maximum Subarray - https://leetcode.com/problems/maximum-subarray/description/
+6. Container With Most Water - https://leetcode.com/problems/container-with-most-water/description/
