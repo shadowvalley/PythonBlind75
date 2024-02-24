@@ -1,4 +1,5 @@
 class Solution:
+    # TC O(NlogN) SC O(N)
     def minMeetingRooms(self, intervals: List[List[int]]) -> int:
         start_time, end_time = [], []
 
