@@ -7,3 +7,4 @@ Arrays ->
 5. Maximum Subarray - https://leetcode.com/problems/maximum-subarray/description/
 6. Container With Most Water - https://leetcode.com/problems/container-with-most-water/description/
 7. 3Sum - https://leetcode.com/problems/3sum/description/
+8. Merge Intervals - https://leetcode.com/problems/merge-intervals/description/
